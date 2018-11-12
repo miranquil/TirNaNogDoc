@@ -1,0 +1,134 @@
+# PRIME版战甲出场时间及入库时间
+
+###### tags: `Warframe`
+
+## EXCALIBUR PRIME
+
+* (2012.12.19-2013.11.01)
+* 空刃 PRIME
+* 拉托 PRIME
+
+## FROST PRIME
+
+* (2013.05.03-2015.03.24)
+* 收割者 PRIME
+* 拉特昂 PRIME
+
+## MAG PRIME
+
+* (2013.09.13-2015.07.07)
+* 达拉克 PRIME
+* 野猪 PRIME
+
+## EMBER PRIME
+
+* (2013.12.17-2015.10.06)
+* 战刃 PRIME
+* 暗杀者 PRIME
+
+## RHINO PRIME
+
+* (2014.03.27-2016.02.16)
+* 甲龙拳套 PRIME
+* 螺钉步枪 PRIME
+
+## LOKI PRIME
+
+* (2014.06.11-2016.05.17)
+* 玻之武杖 PRIME
+* 蛟龙 PRIME
+
+## NYX PRIME
+
+* (2014.09.23-2016.8.23)
+* 分裂战斧 PRIME
+* 飞扬 PRIME
+
+## NOVA PRIME
+
+* (2014.12.16-2016.11.22)
+* 瓦斯托 PRIME
+* 月神 PRIME
+
+## VOLT PRIME
+
+* (2015.03.24-2017.02.28)
+* ODONATA PRIME
+
+## ASH PRIME
+
+* (2015.07.07-2017.05.30)
+* 守望者 PRIME
+* 搬运者 PRIME
+
+## TRINITY PRIME
+
+* (2015.10.06-2017.08.29)
+* 双短柄战镰 PRIME
+* 喀婆娑 PRIME
+
+## SARYN PRIME
+
+* (2016.02.16-2017.12.12)
+* 侍刃 PRIME
+* 旋刃飞刀PRIME
+
+## VAUBAN PRIME
+
+* (2016.05.17-2018.3.20)
+* 重击巨锤 PRIME
+* 史提托双枪 PRIME
+
+## NEKROS PRIME
+
+* (2016.08.23-2018.6.19)
+* 迦伦提恩 PRIME
+* 猛虎 PRIME
+
+## VALKYR PRIME
+
+* (2016.11.22-2018.9.25)
+* 凯旋之爪 PRIME
+* 西诺斯 PRIME
+
+## BANSHEE PRIME
+
+* (2017.02.28-)
+* 悦音 PRIME
+* 赫利俄斯 PRIME
+
+## OBERON PRIME
+
+* (2017.05.30-)
+* 席瓦&神盾 PRIME
+* 席芭莉丝 PRIME
+
+## HYDROID PRIME
+
+* (2017.08.29-)
+* 海波斯库拉对剑 PRIME
+* 布里斯提卡PRIME
+
+## MIRAGE PRIME
+
+* (2017.12.12-)
+* 科加基 PRIME
+* 螺钉双枪 PRIME
+
+## ZEPHYR PRIME
+
+* (2018.3.20-)
+* 狂鲨 PRIME
+* 皇家拐刃 PRIME
+
+## LIMBO PRIME
+
+* (2018.6.19-)
+* 技巧之剑 PRIME
+* 食人鱼 PRIME
+
+## CHROMA PRIME
+
+* (2018.9.25-)
+* 格拉姆 PRIME
+* 绝路 PRIME
