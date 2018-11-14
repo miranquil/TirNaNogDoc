@@ -199,3 +199,51 @@
   * 200 白金
   * 涓流披饰 Prime
   * 精粹采集机 Prime + 蓝图
+  
+  ##  NOVA PRIME & MAG PRIME VAULT]
+(2018.11.13-)
+* DUAL PACK
+  * $59.99
+  * 1200 PLATINUM
+  * MAG PRIME
+  * NOVA PRIME
+  * 野猪 PRIME
+  * 达克拉 PRIME
+  * 月神 PRIME
+  * 瓦斯托 PRIME
+  * 山越披饰 PRIME
+  * 精粹采集机 PRIME 蓝图
+  * 江户护甲 PRIME
+  * 光谱星钻 PRIME 纹章
+
+* MAG PACK
+  * $39.99
+  * 400 PLATINUM
+  * MAG PRIME
+  * 野猪 PRIME
+  * 达克拉 PRIME
+  * 山越披饰 PRIME
+  * 精粹采集机 PRIME 蓝图
+
+* NOVA PACK
+  * $39.99
+  * 400 PLATINUM
+  * NOVA PRIME
+  * 月神 PRIME
+  * 瓦斯托 PRIME
+  * 江户护甲 PRIME
+  * 光谱星钻 PRIME 纹章
+
+* MAG ACCESSORIES PACK
+  * $19.99
+  * 200 PLATINUM
+  * 精粹采集机 PRIME 蓝图
+  * 山越披饰 PRIME
+
+* NOVA ACCESSORIES PACK
+  * $19.99
+  * 200 PLATINUM 
+  * 江户护甲 PRIME
+  * 光谱星钻 PRIME 纹章
+  
+  
