@@ -200,7 +200,7 @@
   * 涓流披饰 Prime
   * 精粹采集机 Prime + 蓝图
   
-  ##  NOVA PRIME & MAG PRIME VAULT]
+  ##  NOVA PRIME & MAG PRIME VAULT
 (2018.11.13-)
 * DUAL PACK
   * $59.99
